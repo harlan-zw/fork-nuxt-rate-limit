@@ -36,6 +36,6 @@
     "@nuxt/schema": "3.6.5",
     "@types/node": "18.17.0",
     "changelogen": "0.5.4",
-    "nuxt": "3.6.5"
+    "nuxt": "3.12.4"
   }
 }
